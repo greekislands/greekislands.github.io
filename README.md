@@ -1,3 +1,2 @@
-# kevinjpatton.github.io
-My personal and professional information.
-This is an experiment on my part to become more familiar with Git, GitHub, and development in general.
+# greekislands.github.io
+This website is to be used for Phil 101.  Use the menu above to find the readings.
